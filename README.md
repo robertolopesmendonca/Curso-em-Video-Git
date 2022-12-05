@@ -1,2 +1,3 @@
 # Curso em Video Git
- Repositório Curso Git
+Primeiro repositório do Curso em Video -  Git e GitHub
+
